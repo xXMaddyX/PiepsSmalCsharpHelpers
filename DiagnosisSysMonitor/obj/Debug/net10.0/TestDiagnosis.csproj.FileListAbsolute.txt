@@ -1,0 +1,14 @@
+C:\Users\madki\Desktop\TestDiagnosis\bin\Debug\net10.0\TestDiagnosis.exe
+C:\Users\madki\Desktop\TestDiagnosis\bin\Debug\net10.0\TestDiagnosis.deps.json
+C:\Users\madki\Desktop\TestDiagnosis\bin\Debug\net10.0\TestDiagnosis.runtimeconfig.json
+C:\Users\madki\Desktop\TestDiagnosis\bin\Debug\net10.0\TestDiagnosis.dll
+C:\Users\madki\Desktop\TestDiagnosis\bin\Debug\net10.0\TestDiagnosis.pdb
+C:\Users\madki\Desktop\TestDiagnosis\obj\Debug\net10.0\TestDiagnosis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madki\Desktop\TestDiagnosis\obj\Debug\net10.0\TestDiagnosis.AssemblyInfoInputs.cache
+C:\Users\madki\Desktop\TestDiagnosis\obj\Debug\net10.0\TestDiagnosis.AssemblyInfo.cs
+C:\Users\madki\Desktop\TestDiagnosis\obj\Debug\net10.0\TestDiagnosis.csproj.CoreCompileInputs.cache
+C:\Users\madki\Desktop\TestDiagnosis\obj\Debug\net10.0\TestDiagnosis.dll
+C:\Users\madki\Desktop\TestDiagnosis\obj\Debug\net10.0\refint\TestDiagnosis.dll
+C:\Users\madki\Desktop\TestDiagnosis\obj\Debug\net10.0\TestDiagnosis.pdb
+C:\Users\madki\Desktop\TestDiagnosis\obj\Debug\net10.0\TestDiagnosis.genruntimeconfig.cache
+C:\Users\madki\Desktop\TestDiagnosis\obj\Debug\net10.0\ref\TestDiagnosis.dll

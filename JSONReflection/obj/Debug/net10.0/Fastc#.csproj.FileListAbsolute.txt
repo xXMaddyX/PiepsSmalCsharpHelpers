@@ -1,0 +1,14 @@
+C:\Users\madki\Desktop\Fastc#\bin\Debug\net10.0\Fastc#.exe
+C:\Users\madki\Desktop\Fastc#\bin\Debug\net10.0\Fastc#.deps.json
+C:\Users\madki\Desktop\Fastc#\bin\Debug\net10.0\Fastc#.runtimeconfig.json
+C:\Users\madki\Desktop\Fastc#\bin\Debug\net10.0\Fastc#.dll
+C:\Users\madki\Desktop\Fastc#\bin\Debug\net10.0\Fastc#.pdb
+C:\Users\madki\Desktop\Fastc#\obj\Debug\net10.0\Fastc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madki\Desktop\Fastc#\obj\Debug\net10.0\Fastc#.AssemblyInfoInputs.cache
+C:\Users\madki\Desktop\Fastc#\obj\Debug\net10.0\Fastc#.AssemblyInfo.cs
+C:\Users\madki\Desktop\Fastc#\obj\Debug\net10.0\Fastc#.csproj.CoreCompileInputs.cache
+C:\Users\madki\Desktop\Fastc#\obj\Debug\net10.0\Fastc#.dll
+C:\Users\madki\Desktop\Fastc#\obj\Debug\net10.0\refint\Fastc#.dll
+C:\Users\madki\Desktop\Fastc#\obj\Debug\net10.0\Fastc#.pdb
+C:\Users\madki\Desktop\Fastc#\obj\Debug\net10.0\Fastc#.genruntimeconfig.cache
+C:\Users\madki\Desktop\Fastc#\obj\Debug\net10.0\ref\Fastc#.dll
