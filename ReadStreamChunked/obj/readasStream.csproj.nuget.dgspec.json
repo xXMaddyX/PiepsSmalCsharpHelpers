@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\madki\\Desktop\\PiepsSmalCsharpHelpers\\DiagnosisSysMonitor\\TestDiagnosis.csproj": {}
+    "C:\\Users\\madki\\Desktop\\PiepsSmalCsharpHelpers\\ReadStreamChunked\\readasStream.csproj": {}
   },
   "projects": {
-    "C:\\Users\\madki\\Desktop\\PiepsSmalCsharpHelpers\\DiagnosisSysMonitor\\TestDiagnosis.csproj": {
+    "C:\\Users\\madki\\Desktop\\PiepsSmalCsharpHelpers\\ReadStreamChunked\\readasStream.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\madki\\Desktop\\PiepsSmalCsharpHelpers\\DiagnosisSysMonitor\\TestDiagnosis.csproj",
-        "projectName": "TestDiagnosis",
-        "projectPath": "C:\\Users\\madki\\Desktop\\PiepsSmalCsharpHelpers\\DiagnosisSysMonitor\\TestDiagnosis.csproj",
+        "projectUniqueName": "C:\\Users\\madki\\Desktop\\PiepsSmalCsharpHelpers\\ReadStreamChunked\\readasStream.csproj",
+        "projectName": "readasStream",
+        "projectPath": "C:\\Users\\madki\\Desktop\\PiepsSmalCsharpHelpers\\ReadStreamChunked\\readasStream.csproj",
         "packagesPath": "C:\\Users\\madki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\madki\\Desktop\\PiepsSmalCsharpHelpers\\DiagnosisSysMonitor\\obj\\",
+        "outputPath": "C:\\Users\\madki\\Desktop\\PiepsSmalCsharpHelpers\\ReadStreamChunked\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\madki\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,14 @@
+C:\Users\madki\Desktop\readasStream\bin\Debug\net10.0\readasStream.exe
+C:\Users\madki\Desktop\readasStream\bin\Debug\net10.0\readasStream.deps.json
+C:\Users\madki\Desktop\readasStream\bin\Debug\net10.0\readasStream.runtimeconfig.json
+C:\Users\madki\Desktop\readasStream\bin\Debug\net10.0\readasStream.dll
+C:\Users\madki\Desktop\readasStream\bin\Debug\net10.0\readasStream.pdb
+C:\Users\madki\Desktop\readasStream\obj\Debug\net10.0\readasStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madki\Desktop\readasStream\obj\Debug\net10.0\readasStream.AssemblyInfoInputs.cache
+C:\Users\madki\Desktop\readasStream\obj\Debug\net10.0\readasStream.AssemblyInfo.cs
+C:\Users\madki\Desktop\readasStream\obj\Debug\net10.0\readasStream.csproj.CoreCompileInputs.cache
+C:\Users\madki\Desktop\readasStream\obj\Debug\net10.0\readasStream.dll
+C:\Users\madki\Desktop\readasStream\obj\Debug\net10.0\refint\readasStream.dll
+C:\Users\madki\Desktop\readasStream\obj\Debug\net10.0\readasStream.pdb
+C:\Users\madki\Desktop\readasStream\obj\Debug\net10.0\readasStream.genruntimeconfig.cache
+C:\Users\madki\Desktop\readasStream\obj\Debug\net10.0\ref\readasStream.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\madki\\Desktop\\PiepsSmalCsharpHelpers\\Gzip\\GZipTest.csproj",
-      "projectName": "GZipTest",
-      "projectPath": "C:\\Users\\madki\\Desktop\\PiepsSmalCsharpHelpers\\Gzip\\GZipTest.csproj",
+      "projectUniqueName": "C:\\Users\\madki\\Desktop\\PiepsSmalCsharpHelpers\\ReadStreamChunked\\readasStream.csproj",
+      "projectName": "readasStream",
+      "projectPath": "C:\\Users\\madki\\Desktop\\PiepsSmalCsharpHelpers\\ReadStreamChunked\\readasStream.csproj",
       "packagesPath": "C:\\Users\\madki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\madki\\Desktop\\PiepsSmalCsharpHelpers\\Gzip\\obj\\",
+      "outputPath": "C:\\Users\\madki\\Desktop\\PiepsSmalCsharpHelpers\\ReadStreamChunked\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\madki\\AppData\\Roaming\\NuGet\\NuGet.Config"
